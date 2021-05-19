@@ -1,0 +1,32 @@
+{
+  "main": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-coldgate-main-205343-authRole",
+      "UnauthRoleArn": "arn:aws:iam::507632167721:role/amplify-coldgate-main-205343-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::507632167721:role/amplify-coldgate-main-205343-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-coldgate-main-205343-deployment",
+      "UnauthRoleName": "amplify-coldgate-main-205343-unauthRole",
+      "StackName": "amplify-coldgate-main-205343",
+      "StackId": "arn:aws:cloudformation:eu-west-2:507632167721:stack/amplify-coldgate-main-205343/53d4ccd0-a151-11eb-9ce0-0ae41cec514c",
+      "AmplifyAppId": "d3m98187p9q4em"
+    },
+    "categories": {
+      "auth": {
+        "coldgate46fc5634": {}
+      }
+    }
+  },
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-coldgate-dev-13337-authRole",
+      "UnauthRoleArn": "arn:aws:iam::507632167721:role/amplify-coldgate-dev-13337-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::507632167721:role/amplify-coldgate-dev-13337-authRole",
+      "Region": "eu-west-3",
+      "DeploymentBucketName": "amplify-coldgate-dev-13337-deployment",
+      "UnauthRoleName": "amplify-coldgate-dev-13337-unauthRole",
+      "StackName": "amplify-coldgate-dev-13337",
+      "StackId": "arn:aws:cloudformation:eu-west-3:507632167721:stack/amplify-coldgate-dev-13337/80028da0-a09e-11eb-8e39-0abec1b258a8"
+    }
+  }
+}
